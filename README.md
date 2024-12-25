@@ -9,3 +9,4 @@ Scalability: Ability to handle increasing loads by scaling resources up or down.
 Security: Securing the application, data, and access to meet modern security standards.
 The infrastructure will be manually created through the AWS Management Console to achieve these goals.
 
+![alt text](image.png)
